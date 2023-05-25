@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T21:39:59.635Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="j12IvoK6zWQ3i4ufPOk_" version="21.3.3" type="device" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-05-25T21:42:02.473Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="EqOwf53PjuBbhPJu354M" version="21.3.3" type="device" pages="19">
   <diagram id="b0V3nMXfDjbk6XB563yc" name="Common scheme">
     <mxGraphModel dx="1552" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -439,14 +439,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="VGC22UhkeicbzfJo8L9b" name="player">
-    <mxGraphModel dx="1040" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="12QkQTYfqOpM75AZGqy0" name="npc">
     <mxGraphModel dx="1040" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -455,7 +447,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="52yASC_yoGjsUhCL0Y2T" name="simple_AI">
+  <diagram id="VGC22UhkeicbzfJo8L9b" name="player">
     <mxGraphModel dx="1040" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -471,7 +463,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5x1AKPxDMXF73G60lqRN" name="enemy_brain">
+  <diagram id="x_sA5qCqFftE-srZTSl4" name="enemy_brain">
     <mxGraphModel dx="1040" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
