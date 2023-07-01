@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T11:05:41.684Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Po26c7rVBkooh8FoOVyL" version="21.3.7" type="device" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-07-01T10:50:51.575Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EVp1M60AXmkLT1ibqxqT" version="21.5.2" type="device" pages="19">
   <diagram id="b0V3nMXfDjbk6XB563yc" name="Common scheme">
-    <mxGraphModel dx="1040" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1424" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,9 +61,9 @@
         <mxCell id="1UwTLTcxlMveevJBUweM-1" value="NPC:&lt;br&gt;- Textures&lt;br&gt;- Health&lt;br&gt;- Weapon used&lt;br&gt;- Position" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="nGQBirhOrRA2EuZbJa5e-1" vertex="1">
           <mxGeometry y="260" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Ycbz7mBJBQ4Y4mNYf51a-1" value="modes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="40" y="240" width="80" height="30" as="geometry">
-            <mxRectangle x="40" y="240" width="140" height="90" as="alternateBounds" />
+        <mxCell id="Ycbz7mBJBQ4Y4mNYf51a-1" value="modes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="240" width="140" height="90" as="geometry">
+            <mxRectangle x="40" y="240" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ycbz7mBJBQ4Y4mNYf51a-2" value="Infinite (default)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Ycbz7mBJBQ4Y4mNYf51a-1" vertex="1">
